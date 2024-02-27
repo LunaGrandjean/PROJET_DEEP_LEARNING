@@ -14,7 +14,6 @@ The dataset used in this project is available for download here: https://public.
 - Keras
 - Python
 - OpenCV
-- ImageDataGenerator
 
 ### Contributors
 - AKHBARI Darius
